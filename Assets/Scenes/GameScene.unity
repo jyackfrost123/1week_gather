@@ -246,7 +246,7 @@ MonoBehaviour:
   score: 0
   eraserUsed: 0
   startTime: 3.9
-  timeLimit: 2
+  timeLimit: 30
 --- !u!1 &240377184
 GameObject:
   m_ObjectHideFlags: 0

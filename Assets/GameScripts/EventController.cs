@@ -20,7 +20,6 @@ public class EventController : MonoBehaviour
 
     bool check = false;
 
-    float UItime = 3.0f;
 
     Text scoretext;
     Text eraserUsedText;
@@ -92,15 +91,7 @@ public class EventController : MonoBehaviour
             }
 
             if(!check){
-                if (UItime > 0)
-                {
                     gameoverText.text = "ねりねり終了!";
-                    UItime -= 1.0f * Time.deltaTime;
-                }else{
-                    
-                }
-
-
             }
 
 
