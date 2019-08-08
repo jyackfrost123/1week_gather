@@ -22,5 +22,6 @@ Unityroom（ https://ahoge.info/29/index.php ）
 ## URL
 (一週間ゲームジャムについて)
 https://unityroom.com/unity1weeks
+
 (ゲームの公開場所)
 https://unityroom.com/games/eraser_dustget
